@@ -82,7 +82,26 @@ nav {
 }
 /* King End */
 /* Samuel Start */
-
+.float-left {
+    float:left !important;
+}
+.float-right {
+    float:right !important;
+}
+.explore {
+    padding-top:67px;
+    padding-bottom:46px;
+}
+.explore .excerpt {
+    margin-top:106px;
+    margin-bottom:110px;
+}
+.explore .excerpt img {
+    max-width:100%;
+}
+.explore .excerpt p, .explore .excerpt a.button{
+    margin-top:26px;
+}
 /* Samuel End */
 /* Chima Start */
 .call-to-action {
@@ -106,7 +125,16 @@ nav {
         max-width:100%;
     }
     /* Samuel Start */
-
+    .explore .excerpt img {
+        max-width:100%;
+        margin:-40px;
+    }
+    .explore .excerpt img.float-left {
+        margin-right:80px;
+    }
+    .explore .excerpt img.float-right {
+        margin-left:80px;
+    }
     /* Samuel End */
 }
 /* Dark-mode Start */
