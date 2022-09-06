@@ -106,7 +106,26 @@ nav {
         max-width:100%;
     }
     /* Samuel Start */
-
+.float-left {
+    float:left !important;
+}
+.float-right {
+    float:right !important;
+}
+.explore {
+    padding-top:67px;
+    padding-bottom:46px;
+}
+.explore .excerpt {
+    margin-top:106px;
+    margin-bottom:110px;
+}
+.explore .excerpt img {
+    max-width:100%;
+}
+.explore .excerpt p, .explore .excerpt a.button{
+    margin-top:26px;
+}
     /* Samuel End */
 }
 /* Dark-mode Start */
