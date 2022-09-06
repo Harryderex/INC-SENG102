@@ -1,0 +1,85 @@
+:root {
+    --inc-darker-torquose:#0B423E;
+    --inc-dark-torquose:#095953;
+    --inc-torquose:#0DB1A5;
+    --inc-dirty-green:#3B5249;
+    --inc-dark-orange:#C75A1D;
+    --inc-deep-blue:#004CED;
+    --inc-light-gray:#E5E5E5;
+    --inc-lighter-gray:#F5F5F5;
+}
+body {
+    margin:0;
+}
+* {
+    font-family:'Poppins';
+    color:var(--inc-dark-torquose);
+    box-sizing:border-box;
+}
+/* Arnold Start */
+
+/* Arnold End */
+/* Issac Start */
+
+/* Issac End */
+/* Jude Start */
+a {
+    cursor:pointer;
+}
+.index-bottom {
+    z-index:0;
+}
+.index-top {
+    z-index:99;
+}
+.center-abs-x {
+    left:50%;
+    transform:translateX(-50%);
+}
+.position-relative {
+    position:relative;
+}
+.position-absolute {
+    position:absolute;
+}
+.hero-container {
+    padding-bottom:32px;
+}
+nav {
+    margin-top:41px;
+}
+.hero #logo {
+    margin-top:43px;
+    display:inline-block;
+}
+.hero h1 {
+    margin-top:96px;
+}
+.hero p {
+    margin-top:27px;
+    margin-bottom:0;
+}
+.hero .button {
+    margin-top:59px;
+}
+/* Jude End */
+/* King Start */
+
+/* King End */
+/* Samuel Start */
+
+/* Samuel End */
+/* Chima Start */
+
+/* Chima End */
+@media (min-width:768px) {
+    .hero-image {
+        max-width:100%;
+    }
+    /* Samuel Start */
+
+    /* Samuel End */
+}
+/* Dark-mode Start */
+
+/* Dark-mode End */
