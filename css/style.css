@@ -64,7 +64,22 @@ nav {
 }
 /* Jude End */
 /* King Start */
-
+.impacting {
+    padding-top:125px;
+    padding-bottom:103px;
+}
+.impacting p.desc {
+    margin-top:56px;
+}
+.impacting .excerpts {
+    margin-top:56px;
+}
+.impacting .excerpts h3 {
+    margin-top:32px;
+}
+.impacting .excerpts p {
+    margin-top:24px;
+}
 /* King End */
 /* Samuel Start */
 
