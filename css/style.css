@@ -85,7 +85,21 @@ nav {
 
 /* Samuel End */
 /* Chima Start */
-
+.call-to-action {
+    padding-top:104px;
+    padding-bottom:75px;
+}
+.call-to-action a.button {
+    margin-top:60px;
+}
+.foot a .h4 {
+    display:inline-block;
+    margin-bottom: 48px;
+}
+.foot p {
+    margin-top:27px;
+    margin-bottom:48px;
+}
 /* Chima End */
 @media (min-width:768px) {
     .hero-image {
